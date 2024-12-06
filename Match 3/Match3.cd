@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BaseState" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAAAAAAAAAAAAAQAEBAAAAAAAIBACAIAAAAA=</HashCode>
+      <FileName>BaseState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayState" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAAAAAAAAAAAAAAAAAAAQAIBAiAAAgAAA=</HashCode>
+      <FileName>States.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TitleState" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAgEAACIEAAQACCAADAAIAAAAAQAIBAiAgAAAQA=</HashCode>
+      <FileName>States.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoardState" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAAAAAAAAAAAAAAQAIBAiAAAAAAA=</HashCode>
+      <FileName>States.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransState" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAIIAAAAAAAAQAIBAiAAAAAAA=</HashCode>
+      <FileName>States.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneManger" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAAAAIAAAAAAAAAAAAAAAYBAiAAACAAA=</HashCode>
+      <FileName>State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawable" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAACAAAAAggQAQAABBAAAAAAMAAIAgAAAAAAAAAA=</HashCode>
+      <FileName>Drawable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animation" Collapsed="true">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQQBAAIAAAAAgAAhAAAAAAAAMAAAAAEAAgAQQBABAA=</HashCode>
+      <FileName>Animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuAnimation" Collapsed="true">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackGroundImages.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACAAAgAAAAAAAAAAAAiAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DB" Collapsed="true">
+    <Position X="12" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextFiledb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileHandler" Collapsed="true">
+    <Position X="13.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAgIAAACQAAACAgCAAAIQAAAAAAAIAAAJAAEAAAAA=</HashCode>
+      <FileName>TextFiledb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timer" Collapsed="true">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAEAAA=</HashCode>
+      <FileName>Timer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Stage" Collapsed="true">
+    <Position X="13.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextFiledb.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Profile" Collapsed="true">
+    <Position X="12" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAACAAAAAAEAAAAA=</HashCode>
+      <FileName>TextFiledb.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

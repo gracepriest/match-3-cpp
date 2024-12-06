@@ -1,0 +1,125 @@
+﻿  Animation.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Animation.cpp(7,7): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Animation.cpp(12,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Animation.cpp(12,9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Animation.cpp(13,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Animation.cpp(13,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Animation.cpp(15,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Animation.cpp(31,13): warning C4834: discarding return value of function with 'nodiscard' attribute
+  BaseState.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Board.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Button.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Button.cpp(6,7): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Button.cpp(7,8): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Clock.cpp
+  CommonHeaders.h
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Drawable.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Game.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameBoard.cpp
+  LuaBoard.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaBoard.cpp(30,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaBoard.cpp(30,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaBoard.cpp(46,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaBoard.cpp(47,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaBoard.cpp(195,41): warning C4244: '=': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaBoard.cpp(229,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaBoard.cpp(229,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaBoard.cpp(230,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaBoard.cpp(231,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  LuaTitle.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaTitle.cpp(17,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaTitle.cpp(18,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaTitle.cpp(19,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\LuaTitle.cpp(20,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  SceneManger.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  States.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(129,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(187,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(188,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(199,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(200,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(275,58): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(303,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(425,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(490,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(640,118): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(643,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(679,95): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(680,95): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(681,77): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(682,77): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(716,31): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(768,20): warning C4244: '=': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(769,20): warning C4244: '=': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(801,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(802,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Tween.h(74,22): warning C4244: 'return': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\melvi\source\repos\Match 3\Match 3\States.cpp(640): message : see reference to function template instantiation 'T lerp<int>(T,T,float)' being compiled
+          with
+          [
+              T=int
+          ]
+  StoneTitle.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\melvi\source\repos\Match 3\Match 3\Drawable.h(20,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  StringHandler.cpp
+  TextFiledb.cpp
+C:\Users\melvi\source\repos\Match 3\Match 3\TextFiledb.cpp(133,7): warning C4101: 'c': unreferenced local variable
+  Title.cpp
+  Tween.cpp
+  Generating Code...
+  Match 3.vcxproj -> C:\Users\melvi\source\repos\Match 3\x64\Debug\Match 3.exe
